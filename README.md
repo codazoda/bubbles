@@ -1,6 +1,8 @@
 # Bubbles
 
-This app creates bubble paper, a type of graph paper with randomly sized circles. Right click on the image to save it and then print it from your favorite graphics app. I created it for a simple art project.
+This app creates bubble paper, a type of graph paper with randomly sized circles. Right click on the image to save it and then print it from your favorite graphics app. I created it for a simple art project. Here's an example.
+
+![Bubble Paper Example](example.png)
 
 ## Setup
 
